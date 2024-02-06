@@ -1,1 +1,0 @@
-Bank Fintech platform using phoenix for backend
